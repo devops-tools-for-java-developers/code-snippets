@@ -11,3 +11,4 @@ Add your own visitor comment below. Detailed exercise in Chapter 4.
 Stephen Chin ([@steveonjava](https://twitter.com/steveonjava)): Every developer should learn how to do DevOps!
 
 ---
+Aaron MAJAMBO (@majambo) : Added my own comments
