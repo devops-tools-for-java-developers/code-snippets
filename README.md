@@ -1,4 +1,4 @@
-# devops-tools-for-java-developers
+# code-snippets
 DevOps Tools for Java Developers resources and examples
 
 Code snippets are organized by book chapter.
