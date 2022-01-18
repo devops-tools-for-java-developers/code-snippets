@@ -5,7 +5,7 @@ import io.dekorate.kubernetes.annotation.ServiceType;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@KubernetesApplication(serviceType = ServiceType.LoadBalancer)
+@KubernetesApplication
 @SpringBootApplication
 public class DemoApplication {
 
