@@ -9,7 +9,9 @@
   <properties>
     <compiler-plugin.version>3.8.1</compiler-plugin.version>
     <jkube.enricher.jkube-service.type>NodePort</jkube.enricher.jkube-service.type>
-    <jkube.generator.name>${quarkus.container-image.registry}/${quarkus.container-image.group}/${quarkus.container-image.name}:${quarkus.container-image.tag}</jkube.generator.name>
+    <jkube.generator.name>
+      ${quarkus.container-image.registry}/${quarkus.container-image.group}/${quarkus.container-image.name}:${quarkus.container-image.tag}
+    </jkube.generator.name>
     <jkube.version>1.5.1</jkube.version>
     <maven.compiler.parameters>true</maven.compiler.parameters>
     <maven.compiler.source>11</maven.compiler.source>
