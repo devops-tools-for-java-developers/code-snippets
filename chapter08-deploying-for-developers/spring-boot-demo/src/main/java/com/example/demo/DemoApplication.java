@@ -5,7 +5,6 @@ import io.dekorate.kubernetes.annotation.ServiceType;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@KubernetesApplication
 @SpringBootApplication
 public class DemoApplication {
 
