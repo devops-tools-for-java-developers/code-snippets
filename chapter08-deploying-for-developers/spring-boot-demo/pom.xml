@@ -47,6 +47,11 @@
 			<version>${spring-native.version}</version>
 		</dependency>
 		<dependency>
+			<groupId>io.micrometer</groupId>
+			<artifactId>micrometer-registry-prometheus</artifactId>
+			<scope>runtime</scope>
+		</dependency>
+		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
@@ -59,6 +64,28 @@
 				<groupId>org.eclipse.jkube</groupId>
 				<artifactId>kubernetes-maven-plugin</artifactId>
 				<version>${jkube.version}</version>
+				<executions>
+					<execution>
+						<id>resources</id>
+						<phase>process-resources</phase>
+						<goals>
+							<goal>resource</goal>
+						</goals>
+						<configuration>
+							<mergeWithDekorate>true</mergeWithDekorate>
+							<generator>
+								<includes>
+									<include>spring-boot</include>
+								</includes>
+								<config>
+									<spring-boot>
+										<prometheusPort>9779</prometheusPort>
+									</spring-boot>
+								</config>
+							</generator>
+						</configuration>
+					</execution>
+				</executions>
 			</plugin>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
