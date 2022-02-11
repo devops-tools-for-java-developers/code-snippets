@@ -26,6 +26,7 @@
 			${jkube.docker.registry}/${repository}/${project.name}:${tag.version}
 		</jkube.generator.name>
 		<kubernetes-spring-starter.version>2.7.0</kubernetes-spring-starter.version>
+		<prometheusPort>9884</prometheusPort>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -71,21 +72,24 @@
 						<goals>
 							<goal>resource</goal>
 						</goals>
-						<configuration>
-							<mergeWithDekorate>true</mergeWithDekorate>
-							<generator>
-								<includes>
-									<include>spring-boot</include>
-								</includes>
-								<config>
-									<spring-boot>
-										<prometheusPort>9779</prometheusPort>
-									</spring-boot>
-								</config>
-							</generator>
-						</configuration>
 					</execution>
 				</executions>
+				<configuration>
+					<generator>
+						<config>
+							<spring-boot>
+								<prometheusPort>${prometheusPort}</prometheusPort>
+							</spring-boot>
+						</config>
+					</generator>
+					<enricher>
+						<config>
+							<jkube-prometheus>
+								<prometheusPort>${prometheusPort}</prometheusPort>
+							</jkube-prometheus>
+						</config>
+					</enricher>
+				</configuration>
 			</plugin>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

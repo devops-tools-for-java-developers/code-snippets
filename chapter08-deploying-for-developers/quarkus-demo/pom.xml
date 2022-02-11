@@ -59,6 +59,10 @@
       <artifactId>quarkus-opentelemetry-exporter-otlp</artifactId>
     </dependency>
     <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-smallrye-health</artifactId>
+    </dependency>
+    <dependency>
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
       <scope>test</scope>
