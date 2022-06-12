@@ -15,3 +15,6 @@ Stephen Chin ([@steveonjava](https://twitter.com/steveonjava)): Every developer 
 Ahmed Aziz ([@AA_ziz](https://twitter.com/AA_ziz)): DevOps is just a fancy term for ownership
 
 ---
+
+
+MovieGoer (@SWETwitter) : Completed this exercise
