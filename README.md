@@ -26,4 +26,6 @@ MovieGoer (@SWETwitter) : Completed this exercise
 
 Etienne: Java certified since 2001, just checking out what the cool kids are up to ;)
 
+Super Zen: Great book!
+
 ---
