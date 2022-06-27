@@ -14,6 +14,8 @@ Stephen Chin ([@steveonjava](https://twitter.com/steveonjava)): Every developer 
 
 Overmellow (@notwitter): Seconded!
 
+Vishal Agrawal ([@vishalcool88](https://twitter.com/vishalagrawal_)): Learning DevOps tools for Java Developers
+
 Joseph TAMO ([@TamalJoseph](https://twitter.com/tamaljoseph)) : I'm learning how to do DevOps!
 
 Svippa: DevOps and beyond!
