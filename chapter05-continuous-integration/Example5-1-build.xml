@@ -1,0 +1,58 @@
+<project name="my-app" basedir="." default="package"> <1>
+
+    <property name="version" value="1.0-SNAPSHOT"/> <2>
+    <property name="finalName" value="${ant.project.name}-${version}"/>
+    <property name="src.dir" value="src/main/java"/>
+    <property name="build.dir" value="target"/>
+    <property name="output.dir" value="${build.dir}/classes"/>
+    <property name="test.src.dir" value="src/test/java"/>
+    <property name="test.output.dir" value="${build.dir}/test-classes"/>
+    <property name="lib.dir" value="lib"/>
+
+    <path id="classpath"> <3>
+        <fileset dir="${lib.dir}" includes="**/*.jar"/>
+    </path>
+
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+    </target>    
+
+    <target name="compile" depends="clean"> <4>
+        <mkdir dir="${output.dir}"/>
+        <javac srcdir="${src.dir}" 
+               destdir="${output.dir}" 
+               target="11" source="11" 
+               classpathref="classpath" 
+               includeantruntime="false"/>
+    </target>
+
+    <target name="compile-test">
+        <mkdir dir="${test.output.dir}"/>
+        <javac srcdir="${test.src.dir}" 
+               destdir="${test.output.dir}" 
+               target="11" source="11" 
+               classpathref="classpath" 
+               includeantruntime="false"/>
+    </target>
+
+    <target name="test" depends="compile-test"> <5>
+        <junit printsummary="yes" fork="true">
+            <classpath>
+                <path refid="classpath"/>
+                <pathelement location="${output.dir}"/>
+                <pathelement location="${test.output.dir}"/>
+            </classpath>
+
+            <batchtest>
+                <fileset dir="${test.src.dir}" includes="**/*Test.java"/>
+            </batchtest>
+        </junit>
+    </target>
+
+    <target name="package" depends="compile,test"> <6>
+        <mkdir dir="${build.dir}"/>
+        <jar jarfile="${build.dir}/${finalName}.jar"
+              basedir="${output.dir}"/>
+    </target>
+
+</project>
