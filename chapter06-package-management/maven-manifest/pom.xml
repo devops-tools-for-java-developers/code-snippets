@@ -1,0 +1,57 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.acme</groupId>
+  <artifactId>example</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+  
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <build.jdk>${java.version} (${java.vendor} ${java.vm.version})</build.jdk>
+    <build.os>${os.name} ${os.arch} ${os.version}</build.os>
+    <build.revision>${git.commit.id}</build.revision>
+    <build.timestamp>${git.build.time}</build.timestamp>
+  </properties>
+  
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>pl.project13.maven</groupId>
+        <artifactId>git-commit-id-plugin</artifactId>
+        <version>4.0.3</version>
+        <executions>
+          <execution>
+            <id>resolve-git-pproperties</id>
+            <goals>
+              <goal>revision</goal>
+            </goals>
+          </execution>
+        </executions>
+        <configuration>
+          <verbose>false</verbose>
+          <failOnNoGitDirectory>false</failOnNoGitDirectory>
+          <generateGitPropertiesFile>true</generateGitPropertiesFile>
+          <generateGitPropertiesFilename>${project.build.directory}/git.properties
+          </generateGitPropertiesFilename>
+          <dateFormat>yyyy-MM-dd'T'HH:mm:ssXXX</dateFormat>
+        </configuration>
+      </plugin>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-jar-plugin</artifactId>
+        <version>3.2.0</version>
+        <configuration>
+          <archive>
+            <manifestEntries>
+              <Build-Jdk>${build.jdk}</Build-Jdk>
+              <Build-OS>${build.os}</Build-OS>
+              <Build-Revision>${build.revision}</Build-Revision>
+              <Build-Timestamp>${build.timestamp}</Build-Timestamp>
+            </manifestEntries>
+          </archive>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
