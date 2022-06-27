@@ -31,3 +31,5 @@ Etienne: Java certified since 2001, just checking out what the cool kids are up 
 Super Zen: Great book!
 
 ---
+
+Lagom Peter: Many Devops tools for java developers!
