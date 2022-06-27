@@ -18,7 +18,8 @@ Yuxh:(@no_twitter):My Visitor comment
 
 Alexander Frolov: I have managed to reach Chpater 2 out. Not every book can bring me so far. Thanks guys. Very appreciate your effort.
 
----
-
+Joseph : Every developer should learn how to do DevOps!
 
 MovieGoer (@SWETwitter) : Completed this exercise
+
+---
