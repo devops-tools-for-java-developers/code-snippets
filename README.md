@@ -36,6 +36,8 @@ Super Zen: Great book!
 
 Lagom Peter: Many Devops tools for java developers!
 
----
+Aaron MAJAMBO (@majambo) : Added my own comments
 
-Excersice done!
+Exercise done!
+
+---
