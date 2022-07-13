@@ -40,4 +40,9 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
 
+Virtoria Kazakova - haven't got twitter:(
+
+Thanks for book!
+
+
 ---
