@@ -41,3 +41,10 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 Exercise done!
 
 ---
+
+
+function multi(x) {
+  return x * 4
+}
+console.log(multi(7));
+
