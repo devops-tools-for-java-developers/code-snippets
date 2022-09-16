@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+Shiva P B: Learning the foundation of DevOps!
+
 Exercise done!
 
 ---
