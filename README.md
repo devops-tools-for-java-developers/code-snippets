@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+Víctor Orozco ([@tuxtor](https://twitter.com/tuxtor)): Great work team!, this is the most interesting book intro I've seen so far. I'll happily write my review when finished
+
 Exercise done!
 
 ---
