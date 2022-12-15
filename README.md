@@ -40,4 +40,6 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
 
+Chandrakant: Great Book
+
 ---
