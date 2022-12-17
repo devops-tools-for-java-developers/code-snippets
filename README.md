@@ -40,4 +40,4 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
 
----
+Si Dunn (@grumblecore) : Very helpful book. Glad I found it. Thanks!
