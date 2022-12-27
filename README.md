@@ -40,4 +40,7 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
 
+Vinayak Karigar: Ready to learn Devops tools
+
+
 ---
