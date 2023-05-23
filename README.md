@@ -42,3 +42,5 @@ Exercise done!
 
 ---
 Alan K: changing Github package gives me a feeling of great power.
+
+Alan K: changing package in intellij editor.
