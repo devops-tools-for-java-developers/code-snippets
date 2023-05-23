@@ -38,6 +38,9 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+jinsungKim: Devops tools for java developers!
+
 Exercise done!
+
 
 ---
