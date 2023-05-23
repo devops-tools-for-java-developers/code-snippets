@@ -41,3 +41,4 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 Exercise done!
 
 ---
+Alan K: changing Github package gives me a feeling of great power.
