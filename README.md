@@ -40,4 +40,6 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
 
+DaLei Sun ([@sundalei](https://twitter.com/sundalei)): Great book for Java Developers to learn DevOps best practice.
+
 ---
