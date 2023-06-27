@@ -36,6 +36,8 @@ Super Zen: Great book!
 
 Lagom Peter: Many Devops tools for java developers!
 
+George: Reading through the book 'DevOps Tools for Java Developers'.
+
 Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
