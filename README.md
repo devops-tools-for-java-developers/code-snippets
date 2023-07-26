@@ -40,4 +40,8 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
 
+Bruce Kwon (@cool8519) : Added some comments
+
+Interesting book~!
+
 ---
