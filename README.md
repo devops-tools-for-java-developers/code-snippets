@@ -38,7 +38,7 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
-Billy Nader ([@Nabil Nader](https://www.linkedin.com/in/nabilnader/): Backend developer
+Billy Nader ([@Nabil Nader](https://www.linkedin.com/in/nabilnader/)): Backend developer
 
 Exercise done!
 
