@@ -40,4 +40,6 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Exercise done!
 
+hankug (@none) : git request / exercise finish
+
 ---
