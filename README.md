@@ -38,8 +38,22 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+Arron KIM (@notwitter): my own comments
+
+Jean-Paul: DevOps not only for Java, I hope!
+
+Billy Nader ([@Nabil Nader](https://www.linkedin.com/in/nabilnader/)): Backend developer
+
+Hyunjun KWON : This is a Great book for Java developers who want to learn how to do DevOps.  
+
 Exercise done!
 
 jc : Add comment
+
+hankug (@none) : git request / exercise finish
+
+Ruxandra (@RPalmtag): readings on a rainy day
+
+AndyLee: DevOps great!
 
 ---
