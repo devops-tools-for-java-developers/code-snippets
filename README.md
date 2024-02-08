@@ -42,6 +42,8 @@ Hyunjun KWON : This is a Great book for Java developers who want to learn how to
 
 Exercise done!
 
+Ruxandra (@RPalmtag): readings on a rainy day
+
 AndyLee: DevOps great!
 
 ---
