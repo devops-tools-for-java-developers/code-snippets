@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+Arron KIM (@notwitter): my own comments
+
 Jean-Paul: DevOps not only for Java, I hope!
 
 Billy Nader ([@Nabil Nader](https://www.linkedin.com/in/nabilnader/)): Backend developer
