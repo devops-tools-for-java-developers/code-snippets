@@ -40,6 +40,14 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 Billy Nader ([@Nabil Nader](https://www.linkedin.com/in/nabilnader/)): Backend developer
 
+Hyunjun KWON : This is a Great book for Java developers who want to learn how to do DevOps.  
+
 Exercise done!
+
+hankug (@none) : git request / exercise finish
+
+Ruxandra (@RPalmtag): readings on a rainy day
+
+AndyLee: DevOps great!
 
 ---
