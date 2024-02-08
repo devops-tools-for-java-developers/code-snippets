@@ -48,6 +48,8 @@ Hyunjun KWON : This is a Great book for Java developers who want to learn how to
 
 Exercise done!
 
+BLIGHTK: GREAKT BOOK
+
 jc : Add comment
 
 hankug (@none) : git request / exercise finish
