@@ -40,6 +40,32 @@ Aaron MAJAMBO (@majambo) : Added my own comments
 
 METAMI: HELLO DEVOPS!
 
-Exercise done!
+Drafighter ([@ChajeongYong](https://twitter.com/ChajeongYong)) : My First Exercise, Thank you for your help!
 
+JunHyeong Kim(instagram : @junhyeong_daily) : great book !!!
+
+Arron KIM (@notwitter): my own comments
+
+Jean-Paul: DevOps not only for Java, I hope!
+
+Billy Nader ([@Nabil Nader](https://www.linkedin.com/in/nabilnader/)): Backend developer
+
+Hyunjun KWON : This is a Great book for Java developers who want to learn how to do DevOps.  
+
+Exercise done!
+Gaurav : Deveops Tools
+
+BLIGHTK: GREAKT BOOK
+
+jc : Add comment
+
+hankug (@none) : git request / exercise finish
+
+Ruxandra (@RPalmtag): readings on a rainy day
+
+AndyLee: DevOps great!
+
+Игор: Одлична књига!
+
+Gaurav : Testing
 ---
