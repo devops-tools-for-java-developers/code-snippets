@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+JunHyeong Kim(instagram : @junhyeong_daily) : great book !!!
+
 Arron KIM (@notwitter): my own comments
 
 Jean-Paul: DevOps not only for Java, I hope!
