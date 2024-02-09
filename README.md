@@ -69,5 +69,7 @@ AndyLee: DevOps great!
 
 Игор: Одлична књига!
 
+DaLei Sun ([@sundalei](https://twitter.com/sundalei)): Great book for Java Developers to learn DevOps best practice.
+
 Gaurav : Testing
 ---
