@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+Chanyoung (@notwitter) : devops! let's go!
+
 METAMI: HELLO DEVOPS!
 
 Drafighter ([@ChajeongYong](https://twitter.com/ChajeongYong)) : My First Exercise, Thank you for your help!
