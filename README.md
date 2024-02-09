@@ -87,5 +87,7 @@ DaLei Sun ([@sundalei](https://twitter.com/sundalei)): Great book for Java Devel
 
 Dan: Booyah!
 
+Vinayak Karigar: Ready to learn Devops tools
+
 Gaurav : Testing
 ---
