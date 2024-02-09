@@ -47,6 +47,7 @@ Billy Nader ([@Nabil Nader](https://www.linkedin.com/in/nabilnader/)): Backend d
 Hyunjun KWON : This is a Great book for Java developers who want to learn how to do DevOps.  
 
 Exercise done!
+Gaurav : Deveops Tools
 
 BLIGHTK: GREAKT BOOK
 
