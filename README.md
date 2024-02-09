@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+BSL: ikasten! 
+
 jinsungKim: Devops tools for java developers!
 
 Chanyoung (@notwitter) : devops! let's go!
