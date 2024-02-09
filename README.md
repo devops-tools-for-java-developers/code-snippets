@@ -89,5 +89,7 @@ Dan: Booyah!
 
 Vinayak Karigar: Ready to learn Devops tools
 
+Si Dunn (@grumblecore) : Very helpful book. Glad I found it. Thanks!
+
 Gaurav : Testing
 ---
