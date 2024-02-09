@@ -61,5 +61,7 @@ Ruxandra (@RPalmtag): readings on a rainy day
 
 AndyLee: DevOps great!
 
+Игор: Одлична књига!
+
 Gaurav : Testing
 ---
