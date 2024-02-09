@@ -38,6 +38,8 @@ Lagom Peter: Many Devops tools for java developers!
 
 Aaron MAJAMBO (@majambo) : Added my own comments
 
+Marcin Napierala: just comment
+
 Dawit Wondim: Awesome Book! Thanks for helping me become a better software engineer. 
 
 Henry Osei ([@henryosei](https://github.com/henryosei/)) : Devops tools for Java Developers, a good book for getting started for java developers in devops
