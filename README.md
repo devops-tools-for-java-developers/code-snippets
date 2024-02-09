@@ -99,5 +99,8 @@ Chandrakant: Great Book
 
 Good job!
 
+Virtoria Kazakova - haven't got twitter:(
+Thanks for book!
+
 Gaurav : Testing
 ---
