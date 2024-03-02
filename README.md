@@ -104,5 +104,7 @@ Thanks for book!
 
 Captain BAB: Make it so!
 
+Seongcheol Bae(https://www.linkedin.com/in/seongcheol-bae-b22519188/) : we must go devops in scrum
+
 Gaurav : Testing
 ---
