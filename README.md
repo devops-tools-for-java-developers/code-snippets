@@ -105,5 +105,7 @@ Thanks for book!
 Captain BAB: Make it so!
 
 Gaurav : Testing
+
+Richard : learning all about Dev Ops
 ---
 JINSU WI[@legolender]: comment;
