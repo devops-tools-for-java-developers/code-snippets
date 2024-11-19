@@ -10,6 +10,8 @@ Code snippets are organized by book chapter.
 Add your own visitor comment below. Detailed exercise in Chapter 4.
 
 
+DevOps Learner (@notatwitter): Thank you and keep up the good work! 
+
 Stephen Chin ([@steveonjava](https://twitter.com/steveonjava)): Every developer should learn how to do DevOps!
 
 Overmellow (@notwitter): Seconded!
