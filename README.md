@@ -104,6 +104,8 @@ Thanks for book!
 
 Captain BAB: Make it so!
 
+Saša: pull request exercise.
+
 Gaurav : Testing
 ---
 JINSU WI[@legolender]: comment;
